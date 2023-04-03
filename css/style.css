@@ -17,27 +17,3 @@ h1{
 h3{
 	color: #BFBFBF;
 }
-
-p, table, a{
-	color: grey;
-}
-
-/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
-}
