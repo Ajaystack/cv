@@ -1,0 +1,43 @@
+body{
+	background-color: #ECF2GG; 
+	}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	width: 5%;
+	border-color: grey;
+	border-width: 5px;	
+}
+
+h1{
+	color: #66BFBF;
+}
+
+h3{
+	color: #BFBFBF;
+}
+
+p, table, a{
+	color: grey;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
